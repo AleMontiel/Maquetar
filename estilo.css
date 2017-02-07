@@ -1,0 +1,126 @@
+{
+	border:0;
+	margin:0;
+	padding:0;
+}
+body
+{
+
+	background:#ccc ;
+}
+#contenedor{
+	box-shadow: 2px 10px #ccc;
+	height: 1050px;
+	width: 780px;
+	margin-right: auto;
+	margin-left: auto;
+ }
+ header#banner, #galeria, #info{
+
+ 	background: #20B2AA;
+ 	width: 780px;
+ 	height: 100px;
+ }
+ header{
+ 	width: 755px;
+ 	height: 100px;
+ 	padding: 5px 10px;
+ }
+
+ header h1{
+ 	width: 250px;
+ 	height: 155px;
+ }
+ header #menu
+ {
+ 	background: #666;
+ 	width: 500px;
+ 	height: 150px;
+ 	display:  inline-block;
+ 	vertical-align: middle;
+ 	float: right;
+ }
+ #banner{
+
+ 	background: #008B8B;
+ 	width: 780px;
+ 	height: 300px;
+ }
+ #galeria{
+
+ 	background: #DA70D6;
+ 	width: 760px;
+ 	height: 295px;
+ 	padding-left: 10px;
+ 	padding-right: 10px;
+ 	padding-top: 5px;
+ }
+ #info{
+
+ 	background: #008080;
+ 	width: 760px;
+ 	height: 190px;
+ 	padding-left: 10px;
+ 	padding-right: 10px;
+ 	padding-top: 10px;
+ }
+ 
+footer{
+
+
+	background: #f21;
+ 	width: 780px;
+ 	height: 75px;
+ 	padding-top: 1px;
+}
+footer p{
+	font-family: century;
+	font-size: 15px;
+	text-align: center; 
+}
+
+#galeria #foto1{
+background: #999;
+width: 250px;
+height: 290px;
+display: inline-block;
+vertical-align: top;
+
+}
+#galeria #foto2{
+background: #999;
+width: 250px;
+height: 290px;
+display: inline-block;
+vertical-align: top;
+}
+#galeria #foto3{
+background: #999;
+width: 250px;
+height: 290px;
+display: inline-block;
+vertical-align: top;
+}
+#info #info1{
+background: #999;
+width: 250px;
+height: 180px;
+display: inline-block;
+vertical-align: top;
+}
+#info #info2{
+background: #999;
+width: 250px;
+height: 180px;
+display: inline-block;
+vertical-align: top;
+}
+#info #info3{
+background: #999;
+width: 250px;
+height: 180px;
+display: inline-block;
+vertical-align: top;
+}
+
+
